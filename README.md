@@ -7,7 +7,7 @@ A high-performance trading bot for PumpFun, designed for automated token trading
 This bot is designed to monitor and trade tokens on PumpFun with advanced strategies and real-time market analysis.
 
 ## Features
-
+-Mayhem mode detect
 - introduced ai agent
 - boost volume
 - double token supply
