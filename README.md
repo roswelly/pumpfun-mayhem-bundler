@@ -1,4 +1,4 @@
-# PumpFun Mayhem Trading Bot
+# PumpFun Mayhem Bundler | PumpFun Mayhem Trading Bot 
 
 A TypeScript library for creating PumpFun coins with Mayhem Mode support on Solana.
 
